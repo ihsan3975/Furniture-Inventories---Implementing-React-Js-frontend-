@@ -68,6 +68,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-
 ## Screenshot ##
-https://github.com/ihsan3975/Furniture-Inventories---Implementing-React-Js-frontend-/issues/1#issue-490628725
+### Home Page Without Login ###
+![screenshoot](https://user-images.githubusercontent.com/21164691/64474744-20b33280-d1a3-11e9-8c40-635fef84880f.PNG)
+
+### Home Page after login ###
+![screenshoot_homepage](https://user-images.githubusercontent.com/21164691/64474745-20b33280-d1a3-11e9-97f3-08b00a109522.PNG)
+
