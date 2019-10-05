@@ -34,7 +34,6 @@ export class ListProduct extends Component {
         <CardProductHome
           product={product}
           key={product.id}
-          s
           refresh={this.componentDidMount}
         />
       );
